@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MeteoDroid</string>
+    <!-- Weather app -->
+    <string name="Favourites_title">Избранное</string>
+    <string name="Favourites_empty">Нет городов в избранном</string>
+    <string name="Location_Unavailable">Локация недоступна</string>
+    <string name="Feels_like">Ощущается как</string>
+    <string name="No_data">Нет данных</string>
+    <string name="Units_title">Единицы измерения</string>
+    <string name="Search_city">Поиск города</string>
+    <string name="Settings_title">Настройка</string>
+</resources>

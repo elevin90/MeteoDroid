@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MeteoDroid</string>
+    <!-- Weather app -->
+    <string name="Favourites_title">Favourites</string>
+    <string name="Favourites_empty"> No cities found in favourites</string>
+    <string name="Location_Unavailable">Location Unavailable</string>
+    <string name="Feels_like">Feels like</string>
+    <string name="Units_title">Units</string>
+    <string name="No_data">No data</string>
+    <string name="Search_city">Search city</string>
+    <string name="Settings_title">Settings</string>
+</resources>

@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="## Detect start year from previous header&#10;#set(&amp;#36;start = &amp;#36;originalComment.match(&quot;Copyright\\s*\\(c\\)\\s*(\\d{4})&quot;, 1, &quot;&quot;, &quot;&quot;))&#10;&#10;#if (&amp;#36;start)&#10;  #set(&amp;#36;years = &quot;&amp;#36;start-&amp;#36;today.year&quot;)&#10;#else&#10;  #set(&amp;#36;years = &quot;&amp;#36;today.year&quot;)&#10;#end&#10;&#10;/*&#10; * Copyright (c) &amp;#36;years &amp;#36;user. All rights reserved.&#10; */&#10;" />
+    <option name="myName" value="Yauheni Levin" />
+  </copyright>
+</component>
